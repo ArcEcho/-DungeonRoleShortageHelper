@@ -1,0 +1,11 @@
+## Interface: 80000
+## Title: DungeonRoleShortageHelper
+## Version: 8.0.0
+## Notes: An addOn to help you monitor if there is dungeon role shortage.
+## Author: ArcEcho
+## OptionalDeps: Ace3
+## SavedVariables: DungeonRoleShortageHelperDB
+
+includes.xml
+Locales\locales.xml
+DungeonRoleShortageHelper.lua
